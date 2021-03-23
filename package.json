@@ -1,0 +1,29 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "ejemplos de asincronismo en javascript",
+  "scripts": {
+    "callback": "node 1-callback",
+    "promise": "node 2-promise",
+    "async_await": "node 3-async_await"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent50/asincronismo-js.git"
+  },
+  "keywords": [
+    "callback",
+    "promise",
+    "async"
+  ],
+  "author": "Vincent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincent50/asincronismo-js/issues"
+  },
+  "homepage": "https://github.com/vincent50/asincronismo-js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {}
+}
